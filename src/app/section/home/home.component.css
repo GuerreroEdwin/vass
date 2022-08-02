@@ -1,0 +1,29 @@
+form 
+textarea{
+    background-color: transparent !important;
+}
+
+input {
+    color: #fff;
+    background-color:#000;
+    border:0;
+    box-shadow: none;
+    border-bottom:1px solid #fff;
+}
+
+form>div {
+    line-height:2em;
+}
+
+form small {
+    color: #fff;
+    width:20%;
+    
+} 
+label {
+    color: #fff;
+}
+
+#col {
+    margin: 5em 5em 5em 3em;
+}
