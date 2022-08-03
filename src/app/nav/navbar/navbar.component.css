@@ -1,8 +1,35 @@
-.header {
-    background: url(https://vasscompany.com/wp-content/uploads/2020/09/contacto.jpg) no-repeat center;
-    background-size: cover;
-    min-height: 100vh;
-  }
-  .header .navbar {
+
+   .navbar {
     background-color: transparent !important;
   }
+  a,path{
+    color: white;
+  }
+
+
+  .magnifying-glass{
+    width: 1.3rem;
+    height: 1.3rem;
+    margin-top: 0.3rem;
+    margin-left: 1.5rem;
+  }
+ 
+
+
+
+  /* .menu-down{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    z-index: -1;
+  }
+
+  .tr-menu{
+    transition: all .5s cubic-bezier(.25,1,.2,1);
+    
+  }
+
+  .down {
+    top: 0;
+  } */

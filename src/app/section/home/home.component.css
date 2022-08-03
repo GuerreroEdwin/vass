@@ -1,7 +1,8 @@
 form 
-textarea{
+textarea {
     background-color: transparent !important;
 }
+
 
 input {
     color: #fff;
@@ -21,8 +22,9 @@ label {
 }
 
 #col {
-    margin: 5em 5em 5em 3em;
+    margin: 5em 5em 5em 4em;
 }
-#space{
-    margin: 4em 5em 5em 3em; 
+
+input{
+    background-color: transparent !important;
 }

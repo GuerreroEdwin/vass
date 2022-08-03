@@ -1,0 +1,13 @@
+ 
+.nav
+{
+   position: fixed;
+   top: 0px;
+   display: block !important;
+}
+
+.image {
+    background: url(https://vasscompany.com/wp-content/uploads/2020/09/contacto.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+}
